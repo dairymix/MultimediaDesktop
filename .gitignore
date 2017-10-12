@@ -6,3 +6,16 @@ pom.xml.next
 release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
+
+.project
+/deploy
+
+# IDEA metadata and output dirs
+*.iml
+*.ipr
+*.iws
+out
+
+# mac metadata
+.DS_Store
+
